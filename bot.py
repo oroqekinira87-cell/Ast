@@ -88,7 +88,7 @@ except ImportError:
 # ⚙️  الإعدادات الأساسية
 # ══════════════════════════════════════════════════════════════════════════════
 
-BOT_TOKEN: str = os.getenv("BOT_TOKEN", "8406671676:AAGJvTA2nuKvDGzp4chiffBPdM10rxjFuRk")
+BOT_TOKEN: str = os.getenv("BOT_TOKEN", "8745850621:AAGgZBPXoGg-e0RX921WF50RAnM9bbNY_MA")
 
 _admin_env = os.getenv("ADMIN_IDS", "8018653004")
 ADMIN_IDS: List[int] = []
